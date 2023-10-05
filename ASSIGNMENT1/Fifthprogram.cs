@@ -20,7 +20,9 @@ namespace ASSIGNMENT1
             // Using {0} format
             Console.WriteLine("{0} {0} {0} {0}", number);
             Console.WriteLine("{0}{0}{0}{0}", number);
+            Console.WriteLine("hello");
             Console.ReadLine();
+            
         }
     }
 }
